@@ -19,7 +19,6 @@
 ### Paper List
 |    Survey Paper    |  Conference  |
 |  :---------  | :------:  |
-
 | [A survey on deep clustering: from the prior perspective](https://link.springer.com/content/pdf/10.1007/s44336-024-00001-w.pdf) |  Vicinagearth 2024 |
 | :triangular_flag_on_post: [**A Comprehensive Survey on Deep Clustering: Taxonomy, Challenges, and Future Directions**](https://arxiv.org/abs/2206.07579) | ACM Computing Surveys |
 | [Deep Clustering: A Comprehensive Survey](https://arxiv.org/pdf/2210.04142.pdf) | arXiv 2022 |
